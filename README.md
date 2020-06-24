@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# SET YOUR FIREBASE ENV
+### src/config/firebase
+`const firebaseConfig = { `<br/>
+  `apiKey: "YOUR_API_KEY", `<br/>
+  `authDomain: "AUTH_DOMAIN",` <br/>
+  `databaseURL: "DATABASE_URL",` <br/>
+  `projectId: "PROJECT_ID",` <br/>
+  `storageBucket: "BUCKET_URL",` <br/>
+  `messagingSenderId: "SENDER_ID",` <br/>
+  `appId: "YOUR_APP_ID",` <br/>
+`};`
+
 ## Available Scripts
 
 In the project directory, you can run:
