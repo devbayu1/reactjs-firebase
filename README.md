@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# SET YOUR FIREABSE ENV
+# SET YOUR FIREBASE ENV
 ### src/config/firebase
 `const firebaseConfig = { `<br/>
   `apiKey: "YOUR_API_KEY", `<br/>
